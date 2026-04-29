@@ -1,23 +1,66 @@
-Sobre o projeto
+## 🚀 Sobre o projeto
 
-O InvestIQ foi estruturado a partir de um TAP (Termo de Abertura de Projeto), seguindo as boas práticas de gestão descritas no PMBOK Guide.
+O **InvestIQ** não é apenas um projeto técnico — é um projeto estruturado com visão de negócio.
 
-O documento formaliza o início do projeto e define os principais pilares de gestão, incluindo:
+Desde o início, ele foi organizado a partir de um **TAP (Termo de Abertura de Projeto)**, seguindo as boas práticas do PMBOK Guide.
 
-Escopo do projeto
-Identificação de stakeholders
-Planejamento de cronograma
-Análise de riscos
-Estrutura de recursos
+Ou seja: antes mesmo de começar a programar, o foco foi definir **como e por que o projeto deve existir**.
 
-Observação: Os valores apresentados na seção de recursos são fictícios e foram utilizados exclusivamente para fins acadêmicos, com o objetivo de simular um cenário real de planejamento financeiro e viabilidade do projeto.
+### 📌 O que foi estruturado no TAP:
 
-Essa abordagem demonstra a preocupação não apenas com o desenvolvimento técnico, mas também com a organização estratégica e a modelagem de um projeto próximo à realidade de mercado.
+* Escopo do projeto
+* Identificação de stakeholders
+* Planejamento de cronograma
+* Análise de riscos
+* Estrutura de recursos
 
-Sobre mim
+💡 **Diferencial:** enquanto muitos projetos começam direto no código, o InvestIQ começa com **gestão, planejamento e visão estratégica**.
 
-Sou estudante de Ciência de Dados e Inteligência Artificial com interesse em negócios, estratégia e tomada de decisão.
+---
 
-Meu objetivo é atuar em posições de liderança, utilizando a tecnologia como ferramenta para gerar impacto dentro de empresas.
+### 💰 Observação importante
 
-Neste projeto, atuo também na gestão, aplicando conceitos formais de gerenciamento de projetos desde as etapas iniciais.
+Os valores apresentados na seção de recursos são **fictícios**, utilizados exclusivamente para fins acadêmicos, simulando um cenário real de planejamento financeiro e análise de viabilidade.
+
+---
+
+### 📊 O que o InvestIQ faz?
+
+O projeto tem como objetivo transformar dados financeiros complexos (Banco Central) em **decisões simples e acessíveis**.
+
+Na prática, envolve:
+
+* Coleta e tratamento de dados
+* Simulação de investimentos
+* Comparação de risco, retorno e liquidez
+* Visualização clara para o usuário final
+
+---
+
+## 👤 Sobre mim
+
+Sou estudante de Ciência de Dados e Inteligência Artificial com forte interesse em:
+
+* Negócios
+* Estratégia
+* Tomada de decisão
+
+Meu objetivo não é apenas desenvolver sistemas, mas **utilizar tecnologia para gerar impacto real dentro de empresas**.
+
+Neste projeto, atuo tanto na parte técnica quanto na **gestão**, aplicando conceitos formais desde o início — algo que considero essencial para quem quer seguir carreira em liderança.
+
+---
+
+## 📎 Documentação do Projeto (TAP)
+
+O Termo de Abertura de Projeto completo pode ser acessado aqui:
+
+👉 [Clique para visualizar o TAP](./TERMO%20DE%20ABERTURA%20DE%20PROJETO.pdf)
+
+---
+
+## 🎯 Visão
+
+Este projeto representa mais do que uma entrega acadêmica.
+
+Ele marca o início de uma trajetória focada em **conectar tecnologia, gestão e negócio**.
